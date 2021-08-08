@@ -7,7 +7,7 @@ I'm passionate about increasing accessibility in technology and have extensive t
 
 :computer: I have knowledge in <strong>Python</strong> and have worked with <strong>LaTeX, SQL, R, and Java</strong> before. <br>
 
-:sparkles: Want to learn more? Feel free to take a look at my [LinkedIn](www.linkedin.com/in/blisse-k-5b8b671a8).
+:sparkles: Want to learn more? Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/blisse-k-5b8b671a8).
 </p>
 
 <!---
