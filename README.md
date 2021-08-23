@@ -1,4 +1,4 @@
-<h1>:sunny:Hi, I’m Blisse!:sunny:</h1>
+<h1>:sunny: Hi, I’m Blisse! :sunny:</h1>
 
 
 <p>
@@ -7,11 +7,14 @@ I'm passionate about increasing accessibility in technology and have extensive t
 
 :computer: I have knowledge in <strong>Python</strong> and have worked with <strong>LaTeX, SQL, R, and Java</strong> before. <br>
   
-💭Current projects:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱Expanding SQL knowledge<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱Building small Python projects<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱Building a personal website<br>
+💭 Currently working on:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Expanding SQL knowledge<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Building small Python projects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Building a personal website<br>
 
+  
+Take a look at my repos to learn more about projects I'm working on!
+  
 :sparkles: Want to learn more? Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/blisse-k-5b8b671a8).
 </p>
 
